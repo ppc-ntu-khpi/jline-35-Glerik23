@@ -20,7 +20,7 @@ import org.fusesource.jansi.*;
 /**
  * Console client for 'Banking' example.
  *
- * @author Alexander 'Taurus' Babich (modified by AI)
+ * @author Alexander 'Taurus' Babich.
  */
 public class CLIdemo {
 
